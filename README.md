@@ -1,0 +1,1 @@
+This repo hosts challenge files from our CTF events. Please note that some of the challenge files have malware-like capabilities. Such files are for competition and learning purposes only. We do not condone misuse of the binaries for harmful or illegal purposes.
